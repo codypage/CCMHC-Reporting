@@ -221,6 +221,6 @@ GO
 -- ============================================================================
 -- Example Execution:
 -- ============================================================================
-EXEC dbo.usp_GetAimsValidationReportData
-    @measurementDate = '2025-05-12';
-GO
+-- EXEC dbo.usp_GetAimsValidationReportData
+--     @measurementDate = '2025-05-12';
+-- GO
